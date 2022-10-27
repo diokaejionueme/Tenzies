@@ -2,14 +2,14 @@
 # Tenzies
 ---
 
-A simple Tenzies game made with React. 
+    A simple Tenzies game made with React. 
 
 
 
-This project was one of the beginner projects a React Course offerred freely by *Scrimba*. 
+    This project was one of the beginner projects a React Course offerred freely by *Scrimba*. 
 
 ## How To Run
-    Roll Dice until all dice are the same. Click each die to freeze it at it's current' value between rolls. 
+    Roll Dice until all dice are the same. Click each die to freeze it at it's current  value between rolls. 
 ## What I learnt While Building This
 
 - Event Listeners 
