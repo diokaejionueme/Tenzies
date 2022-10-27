@@ -1,10 +1,7 @@
 
 # Tenzies
 ---
-
     A simple Tenzies game made with React. 
-
-
 
     This project was one of the beginner projects a React Course offerred freely by *Scrimba*. 
 
